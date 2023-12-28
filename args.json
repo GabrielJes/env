@@ -1,0 +1,16 @@
+{
+    "0": "Operação concluída com sucesso.",
+
+    "1": "Erro genérico. Ocorreu um problema durante a execução.",
+
+    "2": "Erro na execução do programa. Verifique se os parâmetros fornecidos são corretos.",
+
+    "126": "Erro na execução do comando. Verifique as permissões de execução e tente novamente.",
+
+    "127": "Comando não encontrado. Certifique-se de que o comando está instalado e no seu PATH.",
+    
+    "128": "Processo interrompido por sinal. Consulte os logs para mais detalhes."
+
+
+}
+
